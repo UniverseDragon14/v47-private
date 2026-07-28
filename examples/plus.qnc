@@ -1,0 +1,4 @@
+# single qubit in |+> : ~50/50 |0> and |1>
+qubits 1
+h 0
+measure
